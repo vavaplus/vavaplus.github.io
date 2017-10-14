@@ -1,7 +1,7 @@
 
 	<?php
 
-if (isset($_POST['enviar'])) {
+/*if (isset($_POST['enviar'])) {
 	$to='montesillo25@gmail.com';
 	$subject=$_REQUEST['asunto'];
 	$correo=$_REQUEST['correo'];
@@ -22,5 +22,6 @@ if (mail($to, $subject, $texto)) {
 
 	
 	}
-//admin@wampserver.invalid
+//admin@wampserver.invalid*/
+	echo "Hola mundo";
 ?>

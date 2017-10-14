@@ -1,0 +1,12 @@
+h3{
+	text-align: center;
+}
+div{
+	padding-top: 80px;
+	padding-left: 350px;
+}
+
+.enviar{
+	 position: absolute;
+    bottom: 150px; right: 550px;
+}

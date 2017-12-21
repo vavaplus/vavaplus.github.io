@@ -1,0 +1,39 @@
+#particles-js{
+	background: url(imagen/vavalogo.jpeg);
+	/*Estas lineas centran y ajustan la imagen de manera que 
+	siempre salga completa a pesar del tamaño de pantalla*/
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	width: 100%;
+}
+
+.ancho-letras{
+	top: 200px;/*Sirve para darle una distancia desde arriba*/
+	position: absolute;/*Hace que se ponga sobre otras cajas*/
+	width: 100%;/*El ancho que se usara*/
+	
+	text-align: center;/*Alineacion del texto*/
+	z-index: 1;/*Indica la importancia de una caja, entre mas alto sea el numero mayor importacia tendra*/
+}
+.iconos{
+	width: 80%;
+	margin: auto;
+
+}
+
+.iconos h1{
+	/*Modificacion de color, tipo y tamaño de letra*/
+	color: #fff;
+	font-family: rale;
+	font-size: 70px;
+}
+
+.iconos p{
+	/*Modificacion de color, tipo y tamaño de letra*/
+	display: inline;/*Coloca el contenido de forma lineal*/
+	color: #fff;
+	font-family: rale;
+	font-size: 20px;
+	padding-top: 50px;
+}

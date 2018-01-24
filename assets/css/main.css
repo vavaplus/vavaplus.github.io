@@ -2262,11 +2262,9 @@ inner
 
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
-					color: #000;
 					text-decoration: none;
 					border: 0;
 					outline: 0;
-					font:bold 15px "Trebuchet MS";
 				}
 
 				#nav > ul > li > ul {

@@ -2092,11 +2092,11 @@
 			padding-top: 0;
 		}
 
-/* Header */
+/* Header Fondo inicio */
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/header.png");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;

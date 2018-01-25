@@ -1624,7 +1624,7 @@ inner
 	}
 
 		a:hover {
-			color: #192c70;
+			color: #40ba2a;
 			border-bottom-color: transparent;
 		}
 
@@ -1855,7 +1855,7 @@ inner
 			}
 
 				ul.icons li a:hover {
-					color: #192c70;
+					color: #40ba2a;
 				}
 
 	ol.default {
@@ -2291,7 +2291,7 @@ inner
 			}
 
 			.dropotron li:hover {
-				color: #192c70;
+				color: #40ba2a;
 			}
 
 			.dropotron li a, .dropotron li span {

@@ -1981,7 +1981,7 @@ inner
 				border-top: solid 2px #e5e5e5;
 			}
 
-/* Button */
+/* Button  */
 
 	input[type="button"],
 	input[type="submit"],
@@ -1999,7 +1999,7 @@ inner
 		border: 0;
 		cursor: pointer;
 		outline: 0;
-		font-weight: 300;
+		font-weight:blod;
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -2012,7 +2012,7 @@ inner
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #40ba2a;
 		}
 
 		input[type="button"].alt,

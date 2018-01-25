@@ -2,9 +2,7 @@
 @import url("font-awesome.min.css");
 
 /*
-	Helios by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	CODIGO CSS3
 */
 
 /* Reset */
@@ -1999,7 +1997,7 @@ inner
 		border: 0;
 		cursor: pointer;
 		outline: 0;
-		font:bold 35px "Caflisch Script"; 
+		font:bold 35px; 
 		-moz-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out, color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;

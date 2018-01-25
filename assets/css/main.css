@@ -1988,7 +1988,7 @@ inner
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #31f10f;
+		background: #192c70;
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -2010,7 +2010,7 @@ inner
 		button:hover,
 		.button:hover {
 			color: #fff;
-			background: #40ba2a;
+			background: #4c91e0;
 		}
 
 		input[type="button"].alt,

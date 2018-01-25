@@ -1903,7 +1903,7 @@ inner
 		form select:focus,
 		form textarea:focus {
 			background: #fff;
-			border-color: #df7366;
+			border-color: #31f10f;
 		}
 
 	form input[type="text"],

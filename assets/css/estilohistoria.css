@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+	background: url(header.png);
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	width: 100%;
+	 margin: 0;
+  margin-bottom: 40px;
+	
+}
+
+header{
+	width: 100%;
+	height: 70px;
+	position: fixed;
+	z-index: 1;
+	background: rgba(87, 203, 188, .5);
+
+}
+.ancho{
+	width: 100%;
+	height: 70px;
+	margin: auto;
+}
+nav{
+	width: 100%;
+	height: 70px;
+	float: right;
+	text-align: center;
+	padding-top: 24px;
+	box-sizing: border-box;
+
+	
+}
+nav ul li{
+	display: inline;
+	
+}
+.clearfix:after{
+	content: "";
+	display: table;
+}
+.submenu{/*Con este codigo escondo el submenu*/
+	position: absolute;
+	display: none;
+	background:#000;
+}
+
+
+
+nav ul li a{
+	color: #fff;
+	font-size: 13px;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding-left: 15px;
+	font-weight: bold;
+	letter-spacing: 1px;
+
+	
+}
+nav ul li a{
+	color: #fff;
+}
+nav ul li a:hover{ /* con esta linea paso el maus y cambia el color de letra*/
+	color: #020844;
+	
+
+}
+.letras{
+	z-index: 10;
+	color: #fff;
+	width: 100%;
+	text-align: center;
+	
+}
+.letras2{
+	width: 80%;
+	margin: auto;
+
+}
+div h1{
+	font-size: 70px;
+	padding-top: 85px;
+}
+
+div p{
+	z-index: 20;
+	color: #fff;
+	padding-top: 5%;
+	font-size: 20px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+footer{
+	background-color: #000;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 30px;
+	color: white;
+}
+
